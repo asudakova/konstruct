@@ -1,4 +1,4 @@
 # konstruct
-Верстка небольшого макета на чистом css, html и js
+a simple website using html, css ans js
 
 https://asudakova.github.io/konstruct/
