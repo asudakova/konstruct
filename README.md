@@ -1,4 +1,4 @@
 # konstruct
-a simple website using html, css ans js
+a simple website using html, css and js
 
 https://asudakova.github.io/konstruct/
