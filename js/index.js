@@ -30,6 +30,7 @@ anchors.forEach(anchor => {
       if (burgerIcon.classList.contains('active')){
          menu.classList.remove('active');
          burgerIcon.classList.remove('active');
+         document.body.classList.remove('lock');
       }
    });
 });
